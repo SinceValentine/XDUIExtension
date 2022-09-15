@@ -28,11 +28,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1C89109DCF49AE6E2ED22D65 /* XDUIExtension.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = XDUIExtension.podspec; path = ../XDUIExtension.podspec; sourceTree = "<group>"; };
+		1C89109DCF49AE6E2ED22D65 /* XDUIExtension.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XDUIExtension.podspec; path = ../XDUIExtension.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3ACC695A0FDA515E861A4897 /* Pods-XDUIExtension_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XDUIExtension_Example.release.xcconfig"; path = "Target Support Files/Pods-XDUIExtension_Example/Pods-XDUIExtension_Example.release.xcconfig"; sourceTree = "<group>"; };
 		3B9BAF34731CEC634F115578 /* Pods_XDUIExtension_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XDUIExtension_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3E101815555042AA2CB98127 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		46073525640BC96195CF6CF7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		3E101815555042AA2CB98127 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		46073525640BC96195CF6CF7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		4DF57C73C078BDC080A345D4 /* Pods-XDUIExtension_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XDUIExtension_Example.debug.xcconfig"; path = "Target Support Files/Pods-XDUIExtension_Example/Pods-XDUIExtension_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		5F209A34E692162FB97DB5F0 /* Pods_XDUIExtension_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XDUIExtension_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* XDUIExtension_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XDUIExtension_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -147,7 +147,6 @@
 				ED5F0FB5851CEFA692B18EB7 /* Pods-XDUIExtension_Tests.debug.xcconfig */,
 				898DDC229976270091BA2399 /* Pods-XDUIExtension_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
