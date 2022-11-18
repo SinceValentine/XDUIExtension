@@ -15,6 +15,9 @@ class HomePageViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    func test() {
+        //0.1.3
+    }
 
     /*
     // MARK: - Navigation
