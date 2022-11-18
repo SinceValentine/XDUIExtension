@@ -22,7 +22,7 @@ pod 'XDUIExtension'
 
 ## Author
 
-shanmingming, shanmingming@smartlink.com.cn
+shan, shan_job@foxmail.com
 
 ## License
 
