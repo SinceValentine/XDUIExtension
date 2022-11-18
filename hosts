@@ -1,0 +1,46 @@
+127.0.0.1     activate.adobe.com
+127.0.0.1     practivate.adobe.com
+127.0.0.1     lm.licenses.adobe.com
+127.0.0.1     lmlicenses.wip4.adobe.com
+127.0.0.1     hlrcv.stage.adobe.com
+127.0.0.1     na1r.services.adobe.com
+
+127.0.0.1	ereg.adobe.com
+127.0.0.1	wip3.adobe.com
+127.0.0.1	activate.wip3.adobe.com
+127.0.0.1	3dns-3.adobe.com
+127.0.0.1	3dns-2.adobe.com
+127.0.0.1	adobe-dns.adobe.com
+127.0.0.1	adobe-dns-2.adobe.com
+127.0.0.1	adobe-dns-3.adobe.com
+127.0.0.1	ereg.wip3.adobe.com
+127.0.0.1	activate-sea.adobe.com
+127.0.0.1	wwis-dubc1-vip60.adobe.com
+127.0.0.1	activate-sjc0.adobe.com
+127.0.0.1	hl2rcv.adobe.com
+127.0.0.1	na2m-pr.licenses.adobe.com
+
+127.0.0.1	ims-na1-prprod.adobelogin.com
+
+127.0.0.1	na4r.services.adobe.com
+
+# GitHub Start
+#52.74.223.119 github.com
+#192.30.253.119 gist.github.com
+#54.169.195.247 api.github.com
+#185.199.111.153 assets-cdn.github.com
+#151.101.76.133 raw.githubusercontent.com
+#151.101.108.133 user-images.githubusercontent.com
+#151.101.76.133 gist.githubusercontent.com
+#151.101.76.133 cloud.githubusercontent.com
+#151.101.76.133 camo.githubusercontent.com
+#151.101.76.133 avatars0.githubusercontent.com
+#151.101.76.133 avatars1.githubusercontent.com
+#151.101.76.133 avatars2.githubusercontent.com
+#151.101.76.133 avatars3.githubusercontent.com
+#151.101.76.133 avatars4.githubusercontent.com
+#151.101.76.133 avatars5.githubusercontent.com
+#151.101.76.133 avatars6.githubusercontent.com
+#151.101.76.133 avatars7.githubusercontent.com
+#151.101.76.133 avatars8.githubusercontent.com
+# GitHub End
