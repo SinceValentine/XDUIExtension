@@ -18,7 +18,6 @@
 		AEC6EC5A0469938415AAA596B00D2B7D /* XDUIExtension-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5D47461225D1BB1FB7E1DFF44F73F1 /* XDUIExtension-dummy.m */; };
 		C6667DC6E89D98EA99D3605090B20DBF /* MineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB8C434B974490CA6BFD89BFCC2A3B4 /* MineViewController.swift */; };
 		C739AF01286999B7FC6457CCF1882DDB /* Pods-XDUIExtension_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E0866D67D5DD56B16491F6162ABA60B4 /* Pods-XDUIExtension_Tests-dummy.m */; };
-		D15BB2DFBB9C02B286F827325EBE3300 /* MineViewController.xib in Sources */ = {isa = PBXBuildFile; fileRef = 33D936EB20FA035F6BB3B05FED00AEA9 /* MineViewController.xib */; };
 		E2CE7B02FFC94431150EA22CC38FF894 /* Pods-XDUIExtension_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 86B9EE85D7811D4AE79603DF99C98144 /* Pods-XDUIExtension_Example-dummy.m */; };
 /* End PBXBuildFile section */
 
@@ -41,13 +40,12 @@
 
 /* Begin PBXFileReference section */
 		035A84A0476B98955B8093E97C0A0549 /* Pods-XDUIExtension_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XDUIExtension_Tests-umbrella.h"; sourceTree = "<group>"; };
-		18EE196C29A5B7E04A93F450F1E203C2 /* Pods-XDUIExtension_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-XDUIExtension_Example"; path = Pods_XDUIExtension_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		18EE196C29A5B7E04A93F450F1E203C2 /* Pods_XDUIExtension_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XDUIExtension_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C6B035234C0B5B63ED52F445436EDB5 /* Pods-XDUIExtension_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XDUIExtension_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		208BF6E1CC6B9BB4D142DE73C958FBAF /* XDUIExtension.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XDUIExtension.debug.xcconfig; sourceTree = "<group>"; };
-		2BEF959699B8206C77FDA6FE96C2B1CC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		2BEF959699B8206C77FDA6FE96C2B1CC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		2F1DAE61187AD49A85852DA34784DA15 /* Pods-XDUIExtension_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XDUIExtension_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		31FFA6E0234C667578547CCB9C0FF90D /* XDUIExtension.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = XDUIExtension.modulemap; sourceTree = "<group>"; };
-		33D936EB20FA035F6BB3B05FED00AEA9 /* MineViewController.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; path = MineViewController.xib; sourceTree = "<group>"; };
 		4C66E3925D0955D4044018630675107A /* XDUIExtension-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "XDUIExtension-Info.plist"; sourceTree = "<group>"; };
 		51861049F01EA5DD3D02B6A09F9BD281 /* HomePageViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = HomePageViewController.swift; sourceTree = "<group>"; };
 		5CE6FADBE1E5256B9278F761BAB45645 /* Pods-XDUIExtension_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XDUIExtension_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -61,11 +59,11 @@
 		8C5412CAA260212EFCF43D47A81F3780 /* Pods-XDUIExtension_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XDUIExtension_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		8FAC951BA56AB1A029E64473736B67F2 /* XDUIExtension-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XDUIExtension-umbrella.h"; sourceTree = "<group>"; };
 		91FFD817E2B09A12535E73777BC100F1 /* Pods-XDUIExtension_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XDUIExtension_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B16831BC3E82511D44E3B8F9E8AA0238 /* Pods-XDUIExtension_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XDUIExtension_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		CAA4477E989D93AFF28804373CE0EBAE /* XDUIExtension.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = XDUIExtension.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		CAA4477E989D93AFF28804373CE0EBAE /* XDUIExtension.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = XDUIExtension.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CB5D47461225D1BB1FB7E1DFF44F73F1 /* XDUIExtension-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XDUIExtension-dummy.m"; sourceTree = "<group>"; };
-		D08885AD27CB7C69B658AF82A979187E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		D08885AD27CB7C69B658AF82A979187E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D0991E85905C21DE1E084B83E2DCA1EA /* XDUIExtension */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XDUIExtension; path = XDUIExtension.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D258D70386F967C66DF9AC6D824D0EA7 /* HomeItemModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = HomeItemModel.swift; sourceTree = "<group>"; };
 		D4B9065E6D81710BD4BF12B96E562C9F /* Pods-XDUIExtension_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XDUIExtension_Example-umbrella.h"; sourceTree = "<group>"; };
@@ -154,7 +152,6 @@
 			children = (
 				51861049F01EA5DD3D02B6A09F9BD281 /* HomePageViewController.swift */,
 				EFB8C434B974490CA6BFD89BFCC2A3B4 /* MineViewController.swift */,
-				33D936EB20FA035F6BB3B05FED00AEA9 /* MineViewController.xib */,
 			);
 			name = ViewController;
 			path = XDUIExtension/Classes/ViewController;
@@ -179,7 +176,7 @@
 		B3B789AFF0B3616BD6BFC905D7AE231D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				18EE196C29A5B7E04A93F450F1E203C2 /* Pods-XDUIExtension_Example */,
+				18EE196C29A5B7E04A93F450F1E203C2 /* Pods_XDUIExtension_Example.framework */,
 				DDEAB6D8EA6CF8B9E2D8180121327134 /* Pods-XDUIExtension_Tests */,
 				D0991E85905C21DE1E084B83E2DCA1EA /* XDUIExtension */,
 			);
@@ -341,7 +338,7 @@
 			);
 			name = "Pods-XDUIExtension_Example";
 			productName = Pods_XDUIExtension_Example;
-			productReference = 18EE196C29A5B7E04A93F450F1E203C2 /* Pods-XDUIExtension_Example */;
+			productReference = 18EE196C29A5B7E04A93F450F1E203C2 /* Pods_XDUIExtension_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -421,7 +418,6 @@
 				2B67B18C39860E54E35DBB06C036374F /* HomeItemModel.swift in Sources */,
 				58C54951D85B162B1B1ADECC18FA4D17 /* HomePageViewController.swift in Sources */,
 				C6667DC6E89D98EA99D3605090B20DBF /* MineViewController.swift in Sources */,
-				D15BB2DFBB9C02B286F827325EBE3300 /* MineViewController.xib in Sources */,
 				AEC6EC5A0469938415AAA596B00D2B7D /* XDUIExtension-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -529,6 +525,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-XDUIExtension_Example/Pods-XDUIExtension_Example.modulemap";
+				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -629,8 +626,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
