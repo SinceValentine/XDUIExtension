@@ -1,0 +1,18 @@
+PODS:
+  - XDUIExtension (0.1.2):
+    - XDUIExtension/Classes (= 0.1.2)
+  - XDUIExtension/Classes (0.1.2)
+
+DEPENDENCIES:
+  - XDUIExtension (from `../`)
+
+EXTERNAL SOURCES:
+  XDUIExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XDUIExtension: ea50970edf03cde223f6c0fb0fd31930793ea9c7
+
+PODFILE CHECKSUM: 4e44db2a53969f2e2aed4771158666d8f6d3ab43
+
+COCOAPODS: 1.11.3
